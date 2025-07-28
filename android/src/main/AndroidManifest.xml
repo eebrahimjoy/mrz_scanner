@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.scansolutions.mrzflutterplugin">
+
+    <application>
+        <activity
+            android:name=".ScannerActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@style/MRZShadowActivityTheme" />
+    </application>
+
+</manifest>

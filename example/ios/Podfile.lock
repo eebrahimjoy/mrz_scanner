@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - mrzscanner_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - mrzscanner_flutter (from `.symlinks/plugins/mrzscanner_flutter/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  mrzscanner_flutter:
+    :path: ".symlinks/plugins/mrzscanner_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  mrzscanner_flutter: e4a17bcdd9429e5f9a5ddee0c01ee48b54709528
+
+PODFILE CHECKSUM: c4c93c5f6502fe2754f48404d3594bf779584011
+
+COCOAPODS: 1.15.2
